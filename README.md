@@ -35,7 +35,7 @@ final_data_kerja (final compiled dataset)
 File format: .csv
 Total Provinces Covered: 34
 
-🛠 Tools Used
+Tools Used
 RStudio – for cleaning and summarizing data using tidyverse
 
 Tableau Public – for dashboard visualization
