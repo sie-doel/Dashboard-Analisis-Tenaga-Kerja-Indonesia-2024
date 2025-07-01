@@ -244,7 +244,7 @@ function App() {
             Data Ketenagakerjaan Indonesia 2024 | Sumber: Kementerian Ketenagakerjaan RI
           </p>
           <p className="text-gray-500 text-xs mt-2">
-            Dashboard dibuat dengan React & Recharts
+            Dashboard dibuat dengan React & Recharts@abdul ghofur
           </p>
         </div>
       </main>
